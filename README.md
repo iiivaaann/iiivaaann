@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Sobre mí<br>¡Hola! Soy un desarrollador de aplicaciones web de 22 años, apasionado por la tecnología y la creación de soluciones digitales eficientes. Vivo en España y disfruto construyendo aplicaciones innovadoras que mejoren la experiencia del usuario.<br><br>🚀 Tecnologías y habilidades<br>💻 Desarrollo web: React, JavaScript, CSS, HTML<br>⚡ Backend y bases de datos: MongoDB, SQL, Java, JSP, PHP, MySQL<br>🎨 UI/UX: Figma, Bootstrap<br><br>📫 Conéctate conmigo<br>📩 ivanmgz@icloud.com<br>🏆 Siempre aprendiendo algo nuevo
+👋 Sobre mí<br>¡Hola! Soy un apasionado por la tecnología y la creación de soluciones digitales eficientes. Vivo en España y disfruto construyendo aplicaciones innovadoras que mejoren la experiencia del usuario.<br><br>🚀 Tecnologías y habilidades<br>💻 Desarrollo web: React, JavaScript, CSS, HTML<br>⚡ Backend y bases de datos: MongoDB, SQL, Java, JSP, PHP, MySQL<br>🎨 UI/UX: Figma, Bootstrap<br><br>📫 Conéctate conmigo<br>📩 ivanmgz@icloud.com<br>🏆 Siempre aprendiendo algo nuevo
 
 
 ## 🌐 Socials:
